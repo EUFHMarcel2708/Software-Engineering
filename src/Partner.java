@@ -23,5 +23,9 @@ public class Partner {
 	public void setKooperation(boolean kooperation) {
 		this.kooperation = kooperation;
 	}
+	
+	public void boost() {
+		System.out.println("ICH BIN BESSER");
+	}
 
 }
