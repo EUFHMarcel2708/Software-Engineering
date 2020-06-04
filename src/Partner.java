@@ -28,4 +28,8 @@ public class Partner {
 		System.out.println("ICH BIN BESSER");
 	}
 
+	public void methode(){
+		System.out.println("Das ist eine Methdoe!");
+	}
+
 }
